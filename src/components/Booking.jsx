@@ -28,7 +28,7 @@ Service: ${form.service}
 Preferred date: ${form.date}
 Preferred time: ${form.time}`;
 
-    const whatsappUrl = `https://wa.me/2348087604687?text=${encodeURIComponent(
+    const whatsappUrl = `https://wa.me/2349050281270?text=${encodeURIComponent(
       message,
     )}`;
 
@@ -137,8 +137,8 @@ Preferred time: ${form.time}`;
       </form>
 
       <div className="booking-section__contact">
-        <a href="tel:+2348087604687">
-          CALL <span>0808 760 4687</span>
+        <a href="tel:+2349050281270">
+          CALL <span>0905 028 1270</span>
         </a>
 
         <span className="booking-section__contact-line" />

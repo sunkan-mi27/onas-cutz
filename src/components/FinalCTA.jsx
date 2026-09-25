@@ -46,10 +46,10 @@ const FinalCTA = () => {
         </div>
 
         <div className="final-section__footer-links">
-          <a href="tel:+2348087604687">CALL</a>
+          <a href="tel:+2349050281270">CALL</a>
 
           <a
-            href="https://wa.me/2348087604687"
+            href="https://wa.me/2349050281270"
             target="_blank"
             rel="noreferrer"
           >
