@@ -40,7 +40,7 @@ const WorkShowcase = () => {
           playsInline
           preload="metadata"
         >
-          <source src="/videos/barber-intro.mp4" type="video/mp4" />
+          <source src="/videos/barber-intro2.mp4" type="video/mp4" />
         </video>
 
         <div className="work-showcase_overly" />
