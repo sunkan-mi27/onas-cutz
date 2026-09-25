@@ -1543,7 +1543,7 @@ a {
 }
 
 .location-section__eyebrow {
-  color: #00e5a8;
+  color: rgba(245, 242, 236, 0.4);
 }
 
 .location-section__number {
@@ -1602,7 +1602,7 @@ a {
 .location-section__map-line {
   position: absolute;
   height: 1px;
-  background: rgba(0, 229, 168, 0.18);
+  background: rgba(245, 242, 236, 0.4);
   transform-origin: left;
 }
 
@@ -1633,7 +1633,7 @@ a {
   left: 52%;
   width: 20px;
   height: 20px;
-  border: 1px solid #00e5a8;
+  border: 1px solid rgba(245, 242, 236, 0.4);
   border-radius: 50%;
   transform: translate(-50%, -50%);
 }
@@ -1654,9 +1654,9 @@ a {
 .location-section__pin span {
   position: absolute;
   inset: 6px;
-  background: #00e5a8;
+  background: rgba(245, 242, 236, 0.4);
   border-radius: 50%;
-  box-shadow: 0 0 25px rgba(0, 229, 168, 0.5);
+  box-shadow: 0 0 25px rgba(245, 242, 236, 0.4);
 }
 
 .location-section__map-label {
@@ -1690,7 +1690,7 @@ a {
 
 .location-section__small {
   margin-bottom: 28px;
-  color: #00e5a8;
+  color: rgba(245, 242, 236, 0.4);
   font-size: 8px;
   font-weight: 700;
   letter-spacing: 0.3em;
@@ -1734,13 +1734,13 @@ a {
 }
 
 .location-section__directions span {
-  color: #00e5a8;
+  color: rgba(245, 242, 236, 0.4);
   font-size: 16px;
 }
 
 .location-section__directions:hover {
-  color: #00e5a8;
-  border-color: #00e5a8;
+  color: rgba(245, 242, 236, 0.4);
+  border-color: rgba(245, 242, 236, 0.4);
 }
 
 /* Mobile */
@@ -1811,7 +1811,7 @@ a {
 
 .final-section__eyebrow {
   margin-bottom: 35px;
-  color: #00e5a8;
+  color: rgba(245, 242, 236, 0.4);
   font-size: 8px;
   font-weight: 700;
   letter-spacing: 0.35em;
@@ -1847,14 +1847,14 @@ a {
 }
 
 .final-section__button span {
-  color: #00e5a8;
+  color: rgba(245, 242, 236, 0.4);
   font-size: 18px;
   transition: transform 0.3s ease;
 }
 
 .final-section__button:hover {
-  color: #00e5a8;
-  border-color: #00e5a8;
+  color: rgba(245, 242, 236, 0.4);
+  border-color: rgba(245, 242, 236, 0.4);
 }
 
 .final-section__button:hover span {
@@ -1904,7 +1904,7 @@ a {
 }
 
 .final-section__footer-links a:hover {
-  color: #00e5a8;
+  color: rgba(245, 242, 236, 0.4);
 }
 
 .final-section__footer > p {
